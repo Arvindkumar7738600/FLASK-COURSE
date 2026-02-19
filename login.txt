@@ -1,0 +1,9 @@
+How to work login page ?
+login accept user and password
+session record
+redirect wellcome page
+logout 
+
+
+# Enable Virtual venv  
+-- python3 -m venv venv
