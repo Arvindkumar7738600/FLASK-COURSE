@@ -1,0 +1,5 @@
+FORM:
+
+1. Always use name 
+2, Always define the method POST - post means sumbit the data 
+3. Make Sure Match the everything.
